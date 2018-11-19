@@ -192,7 +192,7 @@ A demo was shown with it running on Google Cloud Platform
 
 I'm not sure if its ready for use yet, but if you can fit into its workflow looks like an easy to setup continuous delivery pipeline. 
 
-Feel free to get in touch if any of this is interesting to you (@Tjaynz on twitter), so far I've tried out most of what is talked about here.
+Feel free to get in touch if any of this is interesting to you (@Tjaynz on twitter), so far I've tried out most of what is talked about here. 
 
 
  
